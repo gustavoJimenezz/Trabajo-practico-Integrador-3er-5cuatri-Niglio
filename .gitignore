@@ -1,5 +1,24 @@
-# Entorno virtual
+# Entorno virtual de Python
 .venv/
+venv/
 
-# Configuración de entorno
+# Archivos de entorno sensibles
 .env
+instance/
+*.env
+
+# Cachés y archivos de Python compilados
+__pycache__/
+*.py[cod]
+
+# Archivos de log o temporales
+*.log
+*.tmp
+*.bak
+
+# # Migraciones con flask-migrate (no usaré pero lo dejo por si en el futuro genero scripts de migración)
+migrations/versions/
+
+# postgresql data volumen
+postgresql/
+postgresql/data/
