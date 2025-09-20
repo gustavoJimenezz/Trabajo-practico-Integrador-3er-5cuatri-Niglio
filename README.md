@@ -1,5 +1,7 @@
 # Trabajo Práctico Taller Integrador - CABA 1C 2025 (Niglio)
 
+Este proyecto consiste en implementar una API REST de gestión de hoteles, diseñada para interactuar con el cliente frontend entregado por el profesor.
+
 ## Integrantes
 
 - Veronica Andrea Girardi  
